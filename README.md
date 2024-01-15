@@ -1,25 +1,11 @@
-# 2019-02-06
 
-- add media upload 
-- rewrite role capability page
-- category menu type by page, api
+![image](https://github.com/saba17773/automail/assets/71871023/3f4388d4-4437-4d83-a8bc-0aba721ef1c6)
 
-# 2019-01-25
+<b>Master Menu </b>
+![image](https://github.com/saba17773/automail/assets/71871023/5e4d0ea9-4891-4c30-a77b-893cfc8d01d1)
+<b> set E-mail </b>
+![image](https://github.com/saba17773/automail/assets/71871023/ce25d414-16e6-4c63-9604-5cbe0c43c5ea)
+<b> Page push File  Get send to customer </b>
+![image](https://github.com/saba17773/automail/assets/71871023/fefd29f5-709c-4690-8590-fab0633559c5)
 
-- add logs table 
 
-# 2019-01-24
-
-- add upload file
-
-# 2019-01-23
-
-- add Server side filter
-- add filter by row
-
-# 2019-01-22
-
-- add `userCan()` for prevent user access some element
-- fix bugs
-- สร้างหน้า Email Lists
-- สร้างหน้าสำหรับ Project Camso
